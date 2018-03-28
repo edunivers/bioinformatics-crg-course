@@ -1,5 +1,6 @@
 CRG Bioinformatics Course
 ========================
+This is the self-learning contents compiled for the basics in bioinformatics course done at the Center for Genomics Regulation in 2018 (10 sessions, dedication: 1h per session).
 
 ## T01. Introduction to bioinformatics and data science
 * Assignment 1: Read "So you want to be a computational biologist?" http://www.nature.com/nbt/journal/v31/n11/full/nbt.2740.html
