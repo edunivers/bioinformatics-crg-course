@@ -5,16 +5,15 @@ CRG Bioinformatics Course
 * Assignment 1: Read "So you want to be a computational biologist?" http://www.nature.com/nbt/journal/v31/n11/full/nbt.2740.html
 * Assignment 2: Video "5 Questions Data Science Answers" https://www.youtube.com/watch?v=0XyV91VYrDs
 * Assignment 3: Video "Is your data ready for data science?" https://www.youtube.com/watch?v=FVgJe4iDZ3Y
-    - Assignment 4: Video "Ask a question you can answer with data https://www.youtube.com/watch?v=nBoybSf7jwo
-* Classwork: questions answers
+* Assignment 4: Video "Ask a question you can answer with data https://www.youtube.com/watch?v=nBoybSf7jwo
 
 ### Class activities
 * Activity 1: Make groups and discuss what are their questions and how they are addressing them. Followed by class discussion on whether questions are clear enough and concrete enough.
 * Activity 2: Discuss how they currently organize their data analysis projects. Followed by class discussion on pros and cons of the different approaches.
 
 ## T02. Setting up and managing a bioinformatics project
-    - Assignment 1: Read "Ten Simple Rules for Reproducible Computational Research" http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
-    - Assignment 2: Tutorial on GitHub http://mozillascience.github.io/working-open-workshop/github_for_collaboration/
+* Assignment 1: Read "Ten Simple Rules for Reproducible Computational Research" http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285
+* Assignment 2: Tutorial on GitHub http://mozillascience.github.io/working-open-workshop/github_for_collaboration/
 * Assignment 3: Tutorial on R Markdown http://rmarkdown.rstudio.com/lesson-1.html
 * Classwork: questions answers
 
